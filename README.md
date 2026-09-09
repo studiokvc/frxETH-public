@@ -1,3 +1,7 @@
+## Parcours français
+
+Lire le [parcours Frax Ether](docs/fr/README.md) : dix chapitres sur frxETH, sfrxETH et les validateurs.
+
 # Frax Staked Ethereum
 ## Flowchart
 ![frxETH Flowchart](flowchart.svg)
